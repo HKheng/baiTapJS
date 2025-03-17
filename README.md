@@ -1,2 +1,1 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# Mai Hoang Khang, MSSV: 2180607607
